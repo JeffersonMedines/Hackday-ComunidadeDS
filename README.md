@@ -1,1 +1,1 @@
-# Hackday-ComunidadeDS
+Esse repositório contém o código do projeto desenvolvido para a primeira competição Hackday da Comunidade DS realizada no dia 28/05/2022. O problema era relacionado a inclusão financeira em 4 países da África, e o desafio era desenvolver um modelo de aprendizado de máquina que pudesse prever quais indivíduos vão ou não ter acesso a uma conta bancára.
